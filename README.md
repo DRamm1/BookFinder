@@ -1,6 +1,6 @@
 # BookFinder
 
-Live URL: https://dramm1.github.io/
+Live URL: https://dramm1.github.io/BookFinder/
 # Acceptance Criteria
 - GIVEN a book search engine
 - WHEN I load the search engine
@@ -42,13 +42,14 @@ SO THAT I can keep a list of books to purchase
 
 
 # Screenshots and Images:
-- ![]()
+- ![](https://github.com/DRamm1/BookFinder/blob/main/client/assets/images/mockup.png)
+- ![](https://github.com/DRamm1/BookFinder/blob/main/client/assets/images/mockup1.png)
 ------------------
  Additional Images and Information:
 
 - GitHub Link:
 
-- https://github.com/DRamm1/
+- https://github.com/DRamm1/BookFinder
 
 - Framework:
 MERN Stack
