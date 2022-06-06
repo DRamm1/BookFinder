@@ -1,0 +1,15 @@
+{
+  "short_name": "BookFind",
+  "name": "Book Finder",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#black",
+  "background_color": "#white"
+}
